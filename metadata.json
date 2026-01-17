@@ -1,0 +1,8 @@
+{
+  "name": "DigitalZap Upsell - Mobile App Elite",
+  "description": "Uma página de upsell de alta conversão para o aplicativo móvel white label do sistema DigitalZap.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
