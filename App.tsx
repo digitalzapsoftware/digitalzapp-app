@@ -118,7 +118,6 @@ const App = () => {
         </div>
 
         {/* Main Offer Container */}
-        {/* No mobile, o mockup (order-1) aparece primeiro, logo abaixo do parágrafo acima */}
         <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto">
           
           {/* Mockup Section */}
@@ -188,7 +187,7 @@ const App = () => {
                 href={purchaseUrl}
                 className="w-full bg-gradient-to-r from-brand to-brand-light hover:from-brand-dark hover:to-brand text-white font-black py-4 md:py-5 rounded-2xl text-base sm:text-lg md:text-xl flex flex-col sm:flex-row items-center justify-center gap-2 md:gap-3 transition-all shadow-[0_0_30px_rgba(254,83,36,0.4)] group pulse-button no-underline text-center"
               >
-                <span>SIM! QUERO MEU APP PARA REVENDA</span>
+                <span>SIM! QUERO O APP</span>
                 <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform hidden sm:block" />
               </a>
 
